@@ -1,0 +1,9 @@
+public class nerd
+{
+  public static void main (String[]args)
+  {
+    String you = "big nerd";
+    if (you == "big nerd")
+    {
+      System.out.println("haha nerd");
+    }
